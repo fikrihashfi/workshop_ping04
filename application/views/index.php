@@ -94,7 +94,7 @@
                               <h2 class="mb-4" data-aos="fade-up">The best <strong>Event</strong> in Indonesia</h2>
 
                               <p class="mb-0" data-aos="fade-up">P!ng merupakan kependekan dari pekan informasi dan teknologi yang diadakan 1 kali setiap tahunnya. <a href="pingfest.id">P!NG</a> pages. 
-                              <br><br>Anda<strong>diperbolehkan</stong> untuk menggunakan template ini secara komersial.</p>
+                              <br><br>Anda<strong> diperbolehkan</strong> untuk menggunakan template ini secara komersial.</p>
                          </div>
 
                          <div class="about-image" data-aos="fade-up" data-aos-delay="200">
