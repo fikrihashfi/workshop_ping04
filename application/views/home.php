@@ -36,7 +36,10 @@
   </div>
 </nav>
 <body>
-    Hello world!!!
-    New
+    <div style="display:flex; flex:1; flex-wrap:wrap; flex-direction:column">
+    <div style="background-color:white; height:250px"><h3>P<span style="color:red">!</span>NG 2019</h3></div>
+    <h3 style="justify-content:center; align-items:center; align-self:center;">OUR TEAM</h3>
+    <div></div>
+    </div>
 </body>
 </html>
