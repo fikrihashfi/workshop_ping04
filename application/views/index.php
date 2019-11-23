@@ -7,7 +7,8 @@
      <meta name="keywords" content="">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
+	 <link rel="icon" href="assets/images/logo-ping.png">
+	 <title>P!NG 2019</title>
      <link rel="stylesheet" href="assets/css/bootstrap.min.css">
      <link rel="stylesheet" href="assets/css/font-awesome.min.css">
      <link rel="stylesheet" href="assets/css/aos.css">
@@ -36,7 +37,7 @@
 
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a href="#about" class="nav-link smoothScroll">Studio</a>
                     </li>
                     <li class="nav-item">
@@ -44,9 +45,9 @@
                     </li>
                     <li class="nav-item">
                         <a href="blog.html" class="nav-link">Blog</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="#footer" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -62,7 +63,7 @@
                         <div class="col-lg-6 col-md-10 col-12 d-flex flex-column justify-content-center align-items-center">
                               <div class="hero-text">
 
-                                   <h1 class="text-white" data-aos="fade-up">We are ready for your digital marketing</h1>
+                                   <h1 class="text-white" data-aos="fade-up">We are P<span style="color:red">!</span>NGFEST</h1>
 
                                    <a href="contact.html" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">Let us discuss together!</a>
 
@@ -90,7 +91,7 @@
                     <div class="col-lg-7 mx-auto col-md-10 col-12">
                          <div class="about-info">
 
-                              <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
+                              <h2 class="mb-4" data-aos="fade-up">The best <strong>Event</strong> in Indonesia</h2>
 
                               <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page. 
                               <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.</p>
@@ -235,12 +236,12 @@
      </section>
 
 
-    <footer class="site-footer">
+    <footer id="footer" class="site-footer">
       <div class="container">
         <div class="row">
 
           <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
-            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We make creative <strong>brands</strong> only.</h1>
+            <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">We make creative <strong>events</strong> only.</h1>
           </div>
 
           <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
@@ -254,24 +255,24 @@
             <p>
               <a href="#">
                 <i class="fa fa-envelope mr-2 footer-icon"></i>
-                hello@company.com
+                pingfest@gmail.com
               </a>
             </p>
           </div>
 
           <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
-            <h4 class="my-4">Our Studio</h4>
+            <h4 class="my-4">Our Company</h4>
 
             <p class="mb-1">
               <i class="fa fa-home mr-2 footer-icon"></i> 
-              Av. Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ, Brazil
+              Universitas Sebelas Maret - Surakarta - Indonesia
             </p>
           </div>
 
           <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
-            <p class="copyright-text">Copyright &copy; 2020 Your Company
+            <p class="copyright-text">Copyright &copy; 2019 P!NGFEST
             <br>
-            <a rel="nofollow noopener" href="https://templatemo.com">Design: TemplateMo</a></p>
+            <a rel="nofollow noopener" href="https://templatemo.com">Design: P!NGFEST</a></p>
           </div>
 
           <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
